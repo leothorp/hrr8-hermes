@@ -25,7 +25,7 @@
 Deployment:
 
 Playing the game:
--visit [...herokuapp.com]
+-visit https://r6redux.herokuapp.com/
 
 ## Requirements
 
@@ -45,12 +45,3 @@ sudo npm install -g bower
 npm install
 bower install
 ```
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
