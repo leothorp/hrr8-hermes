@@ -2,7 +2,7 @@
 
 # Raucous Running and Rampaging Robot Racer Rally (R6)
 
-> A fast-paced many-explosion robot racer game.
+> A fast-paced, explosion-filled multiplayer robot race.
 
 ## Team
 
@@ -20,12 +20,9 @@
 1. [Team](#team)
 1. [Contributing](#contributing)
 
-## Usage
 
-Deployment:
-
-Playing the game:
--visit https://r6redux.herokuapp.com/
+Play the game:
+https://r6redux.herokuapp.com/
 
 ## Requirements
 
