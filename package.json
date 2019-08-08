@@ -17,7 +17,8 @@
     "build": "npm run preprocess -s && npm run js-min -s",
     "prebuild:dev": "npm run clean -s",
     "build:dev": "npm run preprocess:debug -s",
-    "postinstall":"npm run build"
+    "postinstall": "npm run build",
+    "start": "node server/index.js"
   },
   "repository": {
     "type": "git",
