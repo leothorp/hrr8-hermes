@@ -138,7 +138,7 @@ io.on('connection', function(socket) {
 function getGameBySocketId(socketId) {
   for (var gameId in games) {
     for(var playerId in games[gameId].players) {
-      if (playerId = socketId) return games[gameId];
+      if (playerId === socketId) return games[gameId];
     }
   }
 }

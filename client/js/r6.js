@@ -92,10 +92,10 @@ function runScene(meshes,sounds) {
     light.groundColor = new BABYLON.Color3(0,0,0);
   }
 
-  sounds.bg1.loop = true;
-  sounds.bg1.autoplay = true;
-  sounds.bg1.setVolume(1.8);
-  sounds.bg1.play();
+  // sounds.bg1.loop = true;
+  // sounds.bg1.autoplay = true;
+  // sounds.bg1.setVolume(1.8);
+  // sounds.bg1.play();
 
   scene.clearColor = new BABYLON.Color3(0.05,0.05,0.05);
 

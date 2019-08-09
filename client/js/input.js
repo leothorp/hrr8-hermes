@@ -49,3 +49,5 @@ window.addEventListener('keyup', function(e) {
   obj['K' + String.fromCharCode(e.keyCode)] = 0;
   socket.emit('movementInput',obj);
 });
+
+// window.dispatchEvent(new KeyboardEvent('keydown', { keyCode: 73 }))

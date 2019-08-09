@@ -53,7 +53,7 @@ html,body {
 .longfade {
   visibility: hidden;
   opacity: 0;
-  transition: visibility 0s 4s, opacity 4s ease-in;
+  transition: visibility 0s 15s, opacity 15s ease-in;
 }
 
 .shortfade {
