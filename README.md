@@ -1,5 +1,3 @@
-# hrr8-hermes
-
 # Raucous Running and Rampaging Robot Racer Rally (R6)
 
 > A fast-paced, explosion-filled multiplayer robot race.
