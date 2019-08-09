@@ -6,28 +6,29 @@
 
 
 
-##Play the game!
+# Play the game!
 https://r6.onrender.com/
 
 
 
-## Development
-
-### Requirements
-
-Node 0.12.x
-Socket.io 
-Express
 
 ### Installing Dependencies
 
 From within the root directory:
 
 ```sh
-sudo npm install -g bower
 npm install
-bower install
 ```
+
+
+### Local dev
+
+From within the root directory:
+
+```sh
+npm run build && npm start
+```
+Now navigate to localhost:3000 in the browser.
 ## Team
 
   - __Product Owner/Backend Engineer__: Joe Brumaghim
