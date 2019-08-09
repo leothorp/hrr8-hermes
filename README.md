@@ -7,7 +7,7 @@
 
 
 ##Play the game!
-https://r6redux.herokuapp.com/
+https://r6.onrender.com/
 
 
 
